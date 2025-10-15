@@ -29,8 +29,8 @@ void saveTasks() {
 
 void addTask() {
     std::string title, desc;
-    std::cout << "Título: "; std::getline(std::cin, title);
-    std::cout << "Descripción: "; std::getline(std::cin, desc);
+    std::cout << "Titulo: "; std::getline(std::cin, title);
+    std::cout << "Descripcion: "; std::getline(std::cin, desc);
     tasks.push_back(Task(nextId++, title, desc));
     saveTasks();
 }

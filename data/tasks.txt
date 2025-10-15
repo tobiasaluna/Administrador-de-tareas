@@ -1,0 +1,9 @@
+1
+comer
+cocinar
+2
+tarea 
+AM1
+3
+lavar el auto
+ta sucio
