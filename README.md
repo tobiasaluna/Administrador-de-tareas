@@ -14,4 +14,8 @@ Proyecto de gestión de tareas para demostrar habilidades en:
 - Crear, listar, editar y eliminar tareas (CRUD)
 - Guardado y carga de tareas desde archivo `tasks.txt`
 
-
+## Cómo ejecutar
+1. Clonar repositorio
+2. Compilar:
+   ```bash
+   g++ src/*.cpp -o taskmanager
