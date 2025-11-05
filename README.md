@@ -15,7 +15,6 @@ Proyecto de gestión de tareas para demostrar habilidades en:
 - Guardado y carga de tareas desde archivo `tasks.txt`
 
 ## Cómo ejecutar
-1. Clonar repositorio
-2. Compilar:
+1. Compilar:
    ```bash
    g++ src/*.cpp -o taskmanager
